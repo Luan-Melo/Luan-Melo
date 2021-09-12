@@ -1,4 +1,4 @@
-#DevJunior#
+<h1>#DevJunior#</h1>
 
 <div>
   <a href="https://github.com/Luan-Melo">
@@ -7,6 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <h4>Linguagens e Ferramentas</h4>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
