@@ -1,5 +1,4 @@
 <h1>#DevJunior#</h1>
-<h3>Hi, i'm Luan</h3>
 <div>
   <a href="https://github.com/Luan-Melo">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luas10c&theme=github_dark"/>
