@@ -1,10 +1,10 @@
-<h1>#fullStackDeveloper#</h1>
-<div>
-  <a href="https://github.com/Luan-Melo">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luas10c&theme=github_dark"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luas10c&theme=github_dark"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=luansmelo&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true"/>
-</div>
+<h1>About me:</h1>
+  <div> 
+    <p>
+      Hello, my name is Luan, I'm a full stack web developer. A self-taught person and passionate about technology. I'm looking for new challenges in the technological world, in order to solve problems and help people through code. in 2022 I started my postgraduate studies in the area of ​​information security at UNIFACS. With that, I want to become an excellent professional, and contribute to the solutions of the presented problems.
+    </p>
+  </div>
+ 
 
 <div style="display: inline_block"><br>
   <h4>Linguagens e Ferramentas</h4>
