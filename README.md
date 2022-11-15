@@ -5,8 +5,13 @@
     </p>
   </div>
  
+computer Tech Stack:
+ <div>
+   <a href="https://www.instagram.com/luanmelo20/" target="_blank"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/luan-melo-260b18110/" target="_blank"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
+  </a>
+ </div>
  
-
 <div style="display: inline_block"><br>
   <h4>computer Tech Stack:</h4>
   
@@ -36,15 +41,4 @@
    <img align="center" alt="Luan-python" src="https://camo.githubusercontent.com/5e724d4248ce09b0f16320e6e1e7128e7f01b035ea5b860fec92bc8f4b22b57c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534">
   
    <img align="center" alt="Luan-jwt" src="https://camo.githubusercontent.com/11b6e2eea768195dca90f1d37bdb17a650e6d7f2b3d2bcbe7f8daa45162c2c74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a534f4e253230776562253230746f6b656e73">
-
 </div>
-
-
-
-
-## Desenvolvedor Full Stack Javascript !!
-<div> 
-  <a href="https://www.instagram.com/luanmelo20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/luan-melo-260b18110/" target="_blank"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
-</div>
-
