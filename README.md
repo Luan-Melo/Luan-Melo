@@ -5,7 +5,7 @@
     </p>
   </div>
  
-<h4>computer Tech Stack:</h4>
+<h1>computer Tech Stack:</h1>
  <div>
    <a href="https://www.instagram.com/luanmelo20/" target="_blank"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" target="_blank"></a>
    <a href="https://www.linkedin.com/in/luan-melo-260b18110/" target="_blank"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
@@ -13,7 +13,7 @@
  </div>
  
 <div style="display: inline_block"><br>
-  <h4>computer Tech Stack:</h4>
+  <h1>computer Tech Stack:</h1>
   
    <img align="center" alt="Luan-html" src="https://camo.githubusercontent.com/149662647584146f2b62ec0f656c023455f1edfcff7094e185e9474858e88b23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> 
   
