@@ -9,12 +9,8 @@
 
 <div style="display: inline_block"><br>
   <h4>computer Tech Stack:</h4>
-  <img align="center" alt="Luan-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luan-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Typescript" height="30" width="40" src="https://camo.githubusercontent.com/d94501bbe9a7b5d4e47699b72c2a2f79247a08e301acd835e98b5766fe8082e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
-    <img align="center" alt="Luan-Typescript" height="30" width="40" src="https://camo.githubusercontent.com/a4428afd83d671129e701c75e5be52fdbc0a822333514b893c5ef6b3a1e1b693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="Luan-Typescript" src="https://camo.githubusercontent.com/d94501bbe9a7b5d4e47699b72c2a2f79247a08e301acd835e98b5766fe8082e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
+    <img align="center" alt="Luan-Typescript" src="https://camo.githubusercontent.com/a4428afd83d671129e701c75e5be52fdbc0a822333514b893c5ef6b3a1e1b693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
 </div>
 
 
