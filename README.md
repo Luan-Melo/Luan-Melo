@@ -5,6 +5,6 @@
     </p>
   </div>
   <div>
-    💻 Tech Stack:
+  <h1>💻 Tech Stack: </h1>
   </div>
 </div>
