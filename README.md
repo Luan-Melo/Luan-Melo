@@ -14,4 +14,9 @@
     <img src="https://camo.githubusercontent.com/34832d20f2587ef5fae771070dc9a55bac4999625ca9fdd4a0ceb44ab17d3ed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="sqlite"/>
     <img src="https://camo.githubusercontent.com/6a27246b26019bcac46de66c61b2cc9aff668d43e6d9b8db76801280df8fce93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e67696e782d2532333030393633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465" alt="nginx"/>
   </div>
+  <div>
+    <a href="https://github.com/luansmelo">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansmelo&layout=compact&langs_count=7&theme=dracula"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?      username=luansmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
 </div>
