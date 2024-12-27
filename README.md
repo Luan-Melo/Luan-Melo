@@ -11,11 +11,12 @@
     <img src="https://camo.githubusercontent.com/de04bdc93d7c7da16e87e057b7de10f8d394fe3df1317e99bb9cbf2eb002bf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465" alt="Lua"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
     <img src="https://camo.githubusercontent.com/84e0999fa027dedfb31a169d54da33fd98f9691c0b3aba4687a0e0a64cede44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://camo.githubusercontent.com/e37ddb78355265ccd69b7d3c30dbaa5bc04855958c4ae320090d4f945616ad6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="sqlite"/>
   </div>
   <div>
       <a href="https://github.com/luansmelo">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansmelo&layout=compact&langs_count=7&theme=dracula"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luansmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luansmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   </div>
 </div>
